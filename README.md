@@ -2,6 +2,7 @@
 
 1) Ensure that Node.js is installed
 2) Ensure playwright is installed
+3) Download the files into where you have Node installed
 
 # How to run:
 
